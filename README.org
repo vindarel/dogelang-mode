@@ -1,0 +1,9 @@
+* Major mode for Dogelang
+
+Status: handy but work in progress. Based on LiveScript mode.
+
+Dg is a  great little language with Haskell flavours  that compiles to
+CPython bytecode.
+
+- [[http://pyos.github.io/dg/][http://pyos.github.io/dg/]]
+- [[https://github.com/pyos/dg][https://github.com/pyos/dg]]
